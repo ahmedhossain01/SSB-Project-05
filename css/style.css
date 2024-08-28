@@ -1,0 +1,60 @@
+.header{
+	height: 100px;
+	background-color: greenyellow;
+}
+.container1{
+	overflow: hidden;
+}
+.a1{
+    float: left;
+	height: 200px;
+	width: 60%;
+	background-color: red;
+}
+.a2{
+    float: right;
+	height: 200px;
+	width: 40%;
+	background-color: seagreen;
+}
+.container2{
+	overflow: hidden;
+}
+.b1{
+	float: left;
+	height: 200px;
+	width: 33.33%;
+}
+.blue{
+	background-color: skyblue;
+}
+.yell{
+	background-color: yellow;
+}
+.pink{
+	background-color: pink;
+}
+.container3{
+	overflow: hidden;
+}
+.c1{
+	height: 200px;
+	width: 25%;
+	float: left;
+}
+.oran{ background-color: orange;
+}
+.green{
+	background-color: green; 
+}
+.salmon{
+	background-color: salmon;
+}
+.aqua{
+	background-color: aqua;
+}
+.footer{
+	height: 100px;
+	background-color: indigo;
+	margin: 0px;
+}
